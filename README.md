@@ -15,11 +15,11 @@ python -m pip uninstall cal_similarity-1.0.0-py3-none-any.whl
 
 python setup bdist_wheel构建成功后，会生成如下三个目录：
 
-![](.\image\1.png)
+![](./image/1.png)
 
 安装之后，可以在系统的python环境目录找到安装成功的cal_similarity包，如下图：
 
- ![](.\image\2.png)
+ ![](./image/2.png)
 
 # 说明
 
